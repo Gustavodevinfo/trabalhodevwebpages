@@ -1,0 +1,196 @@
+#jardim{
+    display: flex;
+}
+h1 {
+    text-align: center;
+}
+#ljardim {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#ljardim img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+#ljardim p {
+    margin: 0 0 10px 0;
+}
+#ljardim ul {
+    width: 100%;
+    padding-left: 20px; 
+    list-style-type: disc;
+    margin: 0;
+}
+#piton{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+
+}
+#piton img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+#Leo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#Leo img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#Maicon{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#Maicon img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#ph{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#ph img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#hugo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#hugo img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#carvalho{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#carvalho img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#coutinho{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#coutinho img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#payet{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#payet img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#dvd{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#dvd img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#adson{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#adson img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#vegetti{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#vegetti img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
